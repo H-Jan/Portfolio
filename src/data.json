@@ -1,9 +1,23 @@
-{ 
-    "title": "My Portfolio",
-    "body": "Body Information",
+{
     "projects": [
-        {"title": "Game of Life", "body": "Conways Game of Life"},
-        {"title": "GANs", "body": "GANs on Celebrity Faces"},
-        {"title": "Credit Card Fraud", "body": "Analyzation of Credit Card Fraud"}
-    ]
- }
+        { 
+        "title": "Game of Life",
+        "body": "Modeled after Conway's Game of Life simulation, this code writtin in Python demonstrates evolution scaled to thousands of generations while factoring in growth, consumption, and over-expansion in the form of dots representing individuals. The complexity of these interactions are modeled after three simple rules",
+        "language": "Objected-Oriented-Programming Python",
+        "website": "https://github.com/H-Jan/Fall_Intensive_New_Version"
+        },
+        { 
+        "title": "Stock Algorithm",
+        "body": "hss",
+        "language": "Objected-Oriented-Programming Python",
+        "website": "https://github.com/H-Jan/Fall_Intensive_New_Version"
+        }
+        ],
+    "Title": "Portfolio",
+    "Body": "My portfolio project",
+    "About": {
+        "title": "About me",
+        "body": "This is a paragraph about me"
+    }
+}
+
