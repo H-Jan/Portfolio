@@ -1,0 +1,9 @@
+{ 
+    "title": "My Portfolio",
+    "body": "Body Information",
+    "projects": [
+        {"title": "Game of Life", "body": "Conways Game of Life"},
+        {"title": "GANs", "body": "GANs on Celebrity Faces"},
+        {"title": "Credit Card Fraud", "body": "Analyzation of Credit Card Fraud"}
+    ]
+ }
