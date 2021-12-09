@@ -1,16 +1,35 @@
 {
     "projects": [
         { 
+        "id": [0],
         "title": "Game of Life",
         "body": "Modeled after Conway's Game of Life simulation, this code writtin in Python demonstrates evolution scaled to thousands of generations while factoring in growth, consumption, and over-expansion in the form of dots representing individuals. The complexity of these interactions are modeled after three simple rules",
         "language": "Objected-Oriented-Programming Python",
-        "website": "https://github.com/H-Jan/Fall_Intensive_New_Version"
+        "website": "https://github.com/H-Jan/Fall_Intensive_New_Version",
+        "images": [
+            "Conway_Game_Of_Life.png"
+        ]
         },
         { 
+        "id": [1],
         "title": "Stock Algorithm",
-        "body": "hss",
-        "language": "Objected-Oriented-Programming Python",
-        "website": "https://github.com/H-Jan/Fall_Intensive_New_Version"
+        "body": "A simple, mathemtatical approach to algorithmic trading using historical data to generate better results than real world returns",
+        "language": "Machine Learning Python",
+        "website": "https://github.com/H-Jan/Basic_Stock_Trading_Strategy"
+        },
+        { 
+        "id": [2],
+        "title": "Machine Learning Tutorial",
+        "body": "An Introductory Analysis of Machine Learning Algorithms and their uses in real world applications",
+        "language": "Machine Learning Python",
+        "website": "https://colab.research.google.com/drive/1h9a-zHp4LIMTm08mGSnrRHckmvbFwbZ1?usp=sharing"
+        },
+        { 
+        "id": [3],
+        "title": "Face Generation using GANs",
+        "body": "Implementation of Deep Learning concepts and algorithms to generate realistic, fake faces from a dataset of celebrity faces, using the GANs method, or Generative Adversarial Networks.",
+        "language": "Deep Learning Python",
+        "website": "https://colab.research.google.com/drive/13shMGApMXWm6cGMyBbKRxUSdYyRHNWTQ?usp=sharing"
         }
         ],
     "Title": "Portfolio",
@@ -18,6 +37,11 @@
     "About": {
         "title": "About me",
         "body": "This is a paragraph about me"
+    },
+    "Contact": {
+        "title": "Where to Contact Me",
+        "body": "Below are listed avenue's to contact me ",
+        "website": "www.linkedin.com/in/hani-jandali"
     }
 }
 
