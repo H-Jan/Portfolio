@@ -5,11 +5,21 @@ function Contact() {
     return(
         <div>
             <h1>
-                {data.About.title}
+                {data.Contact.title}
             </h1>
             <p>
-                {data.About.body}
+                {data.Contact.body}
             </p>
+            <div>
+                <p> {data.Contact.name1} </p>
+                <a href={data.Contact.website1}><p> {data.Contact.website1} </p></a>
+            </div>
+            <div>
+                <p> {data.Contact.name2}</p>
+                <a href={data.Contact.website2}><p> {data.Contact.website2} </p></a>
+            </div>
+
+
         </div>
     )
 }

@@ -3,7 +3,7 @@ import './About.css'
 
 function About() {
     return(
-        <div>
+        <div className="Pine">
             <h1>
                 {data.About.title}
             </h1>
